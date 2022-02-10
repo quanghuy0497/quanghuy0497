@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there
 
-<!--
-**quanghuy0497/quanghuy0497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice to meet you!
 
-Here are some ideas to get you started:
+My name is Quang-Huy Nguyen. I am deeply interested in Computer Vision, with a special interest in object detection/segmentation, few-shot learning, and vision transformer currently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can look on my [**personal webpage**](https://quanghuy0497.github.io/) for my recent projects and past publications.
+
+Have a great day to you.
+
+<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=quanghuy0497&show_icons=true&line_height=20&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=quanghuy0497&show_icons=true&line_height=20&show_icons=true&theme=midnight-purple)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quanghuy0497&show_icons=true&layout=compact&theme=vue)](https://github-readme-stats.vercel.app/api/top-langs/?username=quanghuy0497&show_icons=true&layout=compact&theme=midnight-purple) -->
