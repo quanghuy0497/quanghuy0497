@@ -29,7 +29,7 @@ My name is Quang-Huy Nguyen (my first name is Huy). I am deeply interested in Co
 
 I am aiming to pursue PhD program in Computer Science starting in Fall 2023.
 
-You can look on my [**personal webpage**](https://quanghuy0497.github.io/) for my academia experience, previous projects and publications.
+You can look on my [**personal webpage**](https://quanghuy0497.github.io/) for my academia experience, previous projects, and publications.
 
 Have a great day to you.
 
