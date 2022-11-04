@@ -25,13 +25,17 @@
 
 Nice to meet you!
 
-My name is Quang-Huy Nguyen (my first name is Huy). I am deeply interested in Computer Vision, with a special interest in Few-shot Learning, Optimization, and Attention mechanism in Transformer currently.
+My name is Quang-Huy Nguyen (my first name is Huy). I am deeply interested in Computer Vision, with a special interest in **Few-shot Learning**, **Vision Transformer**, and ****Bayesian Optimization****.  In particular, I am aiming to develop deep learning models that can be generalized effectively with minimal training data and human supervision for vision tasks.
 
 I am aiming to pursue PhD program in Computer Science starting in Fall 2023.
 
 You can look on my [**personal webpage**](https://quanghuy0497.github.io/) for my academia experience, previous projects, and publications.
 
 Have a great day to you.
+
+<p  align="left">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=quanghuy0497.quanghuy0497" alt="visitor badge"/>
+</p>
 
 <!-- [![github stats](https://github-readme-stats.vercel.app/api?username=quanghuy0497&show_icons=true&line_height=20&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=quanghuy0497&show_icons=true&line_height=20&show_icons=true&theme=midnight-purple)
 
