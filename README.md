@@ -27,7 +27,7 @@ Nice to meet you!
 
 My name is Quang-Huy Nguyen (my first name is Huy). I am deeply interested in Machine Learning/Artificial Intelligence and Computer Vision-driven research, with a special interest in **Few-shot Learning/Meta Learning**, **Domain Adaptation** (continual learning, out-of-distribution detection, etc.), and **Black-box Optimization** (Bayesian Optimization).  In particular, I am aiming to develop deep learning models that can be generalized effectively with minimal training data and human supervision for vision tasks, toward a _lifelong and open-world machine learning system_
 
-I am aiming to pursue Ph.D. program in Computer Science starting in Fall 2024 on ML/DL or Computer Vision.
+I am a first year Computer Science Ph.D. student at the Ohio State University!
 
 You can look on my [**personal webpage**](https://quanghuy0497.github.io/) for my academic experience, previous projects, latest publications, and research blogs.
 
