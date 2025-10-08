@@ -23,15 +23,16 @@
                                    .
 
 
-Nice to meet you!
+Hello! My name is **Quang-Huy Nguyen** (you can call me **Huy**).  
+I am a **second-year Ph.D. student in Computer Science** at **The Ohio State University**, advised by [**Prof. Wei-Lun (Harry) Chao**](https://sites.google.com/view/wei-lun-harry-chao/home).  
 
-My name is Quang-Huy Nguyen (my first name is Huy). I am deeply interested in Machine Learning/Artificial Intelligence and Computer Vision-driven research, with a special interest in **Few-shot Learning/Meta Learning**, **Domain Adaptation** (continual learning, out-of-distribution detection, etc.), and **Black-box Optimization** (Bayesian Optimization).  In particular, I am aiming to develop deep learning models that can be generalized effectively with minimal training data and human supervision for vision tasks, toward a _lifelong and open-world machine learning system_
+My research interests lie in **Machine Learning**, **Artificial Intelligence**, and **Computer Vision**, with a particular focus on:  
+- **Learning with imperfect data** (e.g., limited, noisy, or imbalanced data)  
+- **Uncertainty estimation and adaptation** (e.g., continual learning, transfer learning, out-of-distribution detection, domain adaptation)  
+- **Black-box optimization** (e.g., Bayesian and multi-objective optimization)  
 
-I am a first year Computer Science Ph.D. student at the Ohio State University!
 
-You can look on my [**personal webpage**](https://quanghuy0497.github.io/) for my academic experience, previous projects, latest publications, and research blogs.
-
-Have a great day to you.
+Please check my [**personal webpage**](https://quanghuy0497.github.io/) to learn more about my research, publications, and academic experiences.
 
 ![quanghuy0497's GitHub stats](https://github-readme-stats.vercel.app/api?username=quanghuy0497&show_icons=true&theme=tokyonight)
 
